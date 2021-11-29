@@ -5,4 +5,5 @@ app_name = 'algorithms'
 
 urlpatterns = [
     path('',views.zhanshi,name='zhanshi'),
+    path('/1',views=);
 ]
